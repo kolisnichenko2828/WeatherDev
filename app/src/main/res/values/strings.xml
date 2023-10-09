@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="search_hint">поиск</string>
+    <string name="search_button_text">поиск</string>
+    <string name="today_button_text">Сегодня</string>
+    <string name="tomorrow_button_text">Завтра</string>
+    <string name="afterday_button_text">Послезавтра</string>
+    <string name="tv_time_text">19:00 --- 21 C, чувствуется как 19 C\nУсловия: Ясно\nСкорость ветра: 12 км/ч\nШанс того, что будет дождь: 3%\nОблачность: 21%</string>
+</resources>
