@@ -14,8 +14,6 @@ import com.staskokos.weatherdev.databinding.ActivityMainBinding
 import com.onesignal.OneSignal
 import com.staskokos.weatherdev.data.models.Hour
 import dagger.hilt.android.AndroidEntryPoint
-import java.time.LocalDateTime
-import java.time.format.DateTimeFormatter
 import java.util.Calendar
 import kotlin.system.exitProcess
 
